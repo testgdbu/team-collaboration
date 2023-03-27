@@ -1,0 +1,21 @@
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+ }
+   
+body {
+    margin: 0px;
+    height:100%;
+    padding: 0px;
+    background-image:url(/risen-wang-20jX9b35r_M-unsplash.jpg)
+    background-size: cover;
+    background-position:center;
+    border: solid;
+}
+
+p{
+color: brown;
+
+}
+
